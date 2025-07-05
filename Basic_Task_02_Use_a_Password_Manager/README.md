@@ -45,13 +45,10 @@ To understand the importance of secure password management by installing and usi
 ## 🖼️ Screenshots
 
 1. ✅ **Bitwarden Vault with Stored Logins**  
-   ![Vault](screenshots/vault.png)
+   ![Vault](screenshots/Vault.png)
 
-2. ✅ **Password Generator in Use**  
-   ![Password Generator](screenshots/password-generator.png)
-
-3. ✅ **Auto-Fill Feature on Login Page**  
-   ![Auto-Fill](screenshots/auto-fill.png)
+2. ✅ **Auto-Fill Feature on Login Page**  
+   ![Auto-Fill](screenshots/Auto-Fill.png)
 
 ---
 
