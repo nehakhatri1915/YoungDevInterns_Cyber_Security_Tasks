@@ -51,13 +51,13 @@ Firewalls are a core component of defensive cybersecurity. In this task, I explo
 ## 🖼️ Screenshots
 
 1. ✅ **Firewall Enabled**
-   ![Firewall Enabled](screenshots/Firewall-enabled)
+   ![Firewall Enabled](screenshots/Firewall-enabled.PNG)
 
 2. ✅ **Blocked Chrome – Outbound Rule**
-   ![Outbound Rule](screenshots/outbound-rule)
+   ![Outbound Rule](screenshots/outbound-rule.PNG)
 
 3. ✅ **Allowed Port 80 – Inbound Rule**
-   ![Inbound Rule](screenshots/inbound-rule)
+   ![Inbound Rule](screenshots/inbound-rule.png)
 
 ---
 
