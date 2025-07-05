@@ -47,7 +47,7 @@ To learn how to recognize and safely handle phishing emails by understanding com
    ![Quiz Result](screenshots/Phishing-Quiz.png)
 
 2. ✅ **Reporting Phishing in Gmail**  
-   ![Report Button](screenshots/report-phishing.png)
+   ![Report Button](screenshots/Report-Phishing.png)
 
 ---
 
