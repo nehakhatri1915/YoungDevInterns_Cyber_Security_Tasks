@@ -44,8 +44,20 @@ Firewalls are a core component of defensive cybersecurity. In this task, I explo
 - ✅ Understanding of **Windows Defender Firewall**
 - ✅ Importance of **inbound vs outbound traffic**
 - ✅ Concept of **ports** (e.g., port 80 for HTTP, port 443 for HTTPS)
-- ✅ Difference between **packet filtering** and **stateful inspection**
 - ✅ Practical hands-on with real-world firewall rule configuration
+
+---
+
+## 🖼️ Screenshots
+
+1. ✅ **Firewall Enabled**
+   ![Firewall Enabled](screenshots/Firewall-enabled)
+
+2. ✅ **Blocked Chrome – Outbound Rule**
+   ![Outbound Rule](screenshots/outbound-rule)
+
+3. ✅ **Allowed Port 80 – Inbound Rule**
+   ![Inbound Rule](screenshots/inbound-rule)
 
 ---
 
